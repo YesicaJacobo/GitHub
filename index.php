@@ -19,7 +19,10 @@
                 <img src = "./img/mariposa.png" alt ="Linda mariposa">
             </center>
         
-            
+            <b><br><a href="https://yesicajacobo.repl.co/">   mira mi pagina en replit</a>
+            <br><a href="https://yesicajacobo.000webhostapp.com/">   mira mi pagina en 000webhost </a>
+            <br><a href="https://yesicajacobo.herokuapp.com/">   mira mi pagina en Heroku </a>
+            </b>
 
             <center>
                 <h3>Byeee \(^-^)</h3>
